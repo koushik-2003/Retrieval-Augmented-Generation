@@ -8,7 +8,6 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository.git  
-   cd your-repository
    ```
 
 2. Navigate into the project directory:
