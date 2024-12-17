@@ -38,7 +38,7 @@ def querying_index(query,vectorstore):
     return result
 
 def main():
-    urls = ["https://und.edu/"]
+    urls = ["https://www.amazon.in/"]
     process_urls_flag = input("yes/no").strip().lower()
     if process_urls_flag=="yes":
         vectorstore = process_urls(urls)
